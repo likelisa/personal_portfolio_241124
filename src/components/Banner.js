@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Hi！我是靳博翔，Boajean</span>
                 <h1>{`我是一个`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "AI产品经理", "个人开发者", "咨询顾问" ]'><span className="wrap">{text}</span></span></h1>
                   <p> 
-                    关于我：<br />97年，山西人，零基础转行AI，前金融/管理咨询民工，5年英留子，撸铁和喝酒每天总得沾一样:) <br />爱好：经济学、一级市场投资、战略/管理咨询、跨境电商、自媒体、商业化、汉史、宋史
+                    我：<br />97年，山西人，零基础转行AI，前金融/管理咨询民工，英国留学5年 <br />爱好：经济学、一级市场投资、战略/管理咨询、跨境电商、自媒体、商业化、汉史、宋史
 
                   </p>
                   <button onClick={() => {
